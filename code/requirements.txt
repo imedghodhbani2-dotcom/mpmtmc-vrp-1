@@ -1,0 +1,9 @@
+pandas>=1.5
+pyomo>=6.5
+openpyxl>=3.0
+
+# Solver: SCIP is required to actually solve the models (not a pip package).
+# Recommended: install PySCIPOpt, which also provides the "scip" executable
+# that Pyomo's SolverFactory("scip") calls:
+#   pip install pyscipopt
+# or install SCIP Optimization Suite directly: https://www.scipopt.org/
