@@ -4,8 +4,7 @@ Companion repository for:
 
 > Ghodhbani, I. & Ben Aissa, M. (2026). *A Multi-Period, Multi-Tour,
 > Multi-Compartment Vehicle Routing Problem with Endogenous Cleaning:
-> Hierarchical Framework and Structural Analysis.* Submitted to the
-> *European Journal of Operational Research* (EJOR).
+> Hierarchical Framework and Structural Analysis.
 
 This repository provides everything needed to reproduce the numerical
 results reported in the manuscript: the three MILP models (Pyomo/SCIP),
